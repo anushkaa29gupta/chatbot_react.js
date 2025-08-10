@@ -1,0 +1,113 @@
+{
+  "version": "0.2",
+  "words": [
+    "banasthali",
+    "vidyapith",
+    "vidhyapith",
+    "khadi",
+    "chatbot",
+    "hod",
+
+    "purohit",
+    "Purohit",
+
+    "shastri",
+    "Shastri",
+
+    "anshuman",
+    "Anshuman",
+
+    "shri",
+    "Shri",
+
+    "hiralal",
+    "Hiralal",
+
+    "abha",
+    "Abha",
+
+    "abhay",
+    "Abhay",
+
+    "kumar",
+    "Kumar",
+
+    "rai",
+    "Rai",
+
+    "aditi",
+    "Aditi",
+
+    "paul",
+    "Paul",
+
+    "ajay",
+    "Ajay",
+
+    "yadav",
+    "Yadav",
+
+    "ajit",
+    "Ajit",
+
+    "jain",
+    "Jain",
+
+    "amrita",
+    "Amrita",
+
+    "anoop",
+    "Anoop",
+
+    "bhola",
+    "Bhola",
+
+    "archana",
+    "Archana",
+
+    "ashok",
+    "Ashok",
+
+    "bharti",
+    "Bharti",
+
+    "nathani",
+    "Nathani",
+
+    "mangal",
+    "Mangal",
+
+    "engg",
+    "Engg",
+
+    "slet",
+    "SLET",
+
+    "net",
+    "NET",
+
+    "ph.d",
+    "Ph.D",
+
+    "mca",
+    "MCA",
+
+    "m.tech",
+    "M.Tech",
+
+    "m.sc",
+    "M.Sc",
+
+    "m.phil",
+    "M.Phil",
+
+    "or",
+    "OR",
+
+    "cs",
+    "CS"
+  ],
+  "ignoreWords": [],
+  "allowCompoundWords": true,
+  "caseSensitive": false
+}
